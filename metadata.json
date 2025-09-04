@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Study Buddy",
+  "description": "An accessible AI assistant for users with visual and auditory impairments. It features speech-to-text for input and text-to-speech for output to create a seamless conversational learning experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
